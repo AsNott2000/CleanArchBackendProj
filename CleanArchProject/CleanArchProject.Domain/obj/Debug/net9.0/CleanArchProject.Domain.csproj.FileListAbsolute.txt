@@ -1,0 +1,15 @@
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\bin\Debug\net9.0\CleanArchProject.Domain.deps.json
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\bin\Debug\net9.0\CleanArchProject.Domain.dll
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\bin\Debug\net9.0\CleanArchProject.Domain.pdb
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\bin\Debug\net9.0\BuildingBlocks.Domain.dll
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\bin\Debug\net9.0\BuildingBlocks.Domain.pdb
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\obj\Debug\net9.0\CleanArchProject.Domain.csproj.AssemblyReference.cache
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\obj\Debug\net9.0\CleanArchProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\obj\Debug\net9.0\CleanArchProject.Domain.AssemblyInfoInputs.cache
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\obj\Debug\net9.0\CleanArchProject.Domain.AssemblyInfo.cs
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\obj\Debug\net9.0\CleanArchProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\obj\Debug\net9.0\CleanArc.D90BA9AC.Up2Date
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\obj\Debug\net9.0\CleanArchProject.Domain.dll
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\obj\Debug\net9.0\refint\CleanArchProject.Domain.dll
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\obj\Debug\net9.0\CleanArchProject.Domain.pdb
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\CleanArchProject\CleanArchProject.Domain\obj\Debug\net9.0\ref\CleanArchProject.Domain.dll

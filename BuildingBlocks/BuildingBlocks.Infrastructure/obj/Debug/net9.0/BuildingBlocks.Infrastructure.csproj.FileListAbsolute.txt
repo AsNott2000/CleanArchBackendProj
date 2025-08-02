@@ -1,0 +1,11 @@
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\BuildingBlocks\BuildingBlocks.Infrastructure\bin\Debug\net9.0\BuildingBlocks.Infrastructure.deps.json
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\BuildingBlocks\BuildingBlocks.Infrastructure\bin\Debug\net9.0\BuildingBlocks.Infrastructure.dll
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\BuildingBlocks\BuildingBlocks.Infrastructure\bin\Debug\net9.0\BuildingBlocks.Infrastructure.pdb
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\BuildingBlocks\BuildingBlocks.Infrastructure\obj\Debug\net9.0\BuildingBlocks.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\BuildingBlocks\BuildingBlocks.Infrastructure\obj\Debug\net9.0\BuildingBlocks.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\BuildingBlocks\BuildingBlocks.Infrastructure\obj\Debug\net9.0\BuildingBlocks.Infrastructure.AssemblyInfo.cs
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\BuildingBlocks\BuildingBlocks.Infrastructure\obj\Debug\net9.0\BuildingBlocks.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\BuildingBlocks\BuildingBlocks.Infrastructure\obj\Debug\net9.0\BuildingBlocks.Infrastructure.dll
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\BuildingBlocks\BuildingBlocks.Infrastructure\obj\Debug\net9.0\refint\BuildingBlocks.Infrastructure.dll
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\BuildingBlocks\BuildingBlocks.Infrastructure\obj\Debug\net9.0\BuildingBlocks.Infrastructure.pdb
+C:\Users\nurul\OneDrive\Masaüstü\Main DEV\örnek projeler\CleanArchBackendProj\BuildingBlocks\BuildingBlocks.Infrastructure\obj\Debug\net9.0\ref\BuildingBlocks.Infrastructure.dll
