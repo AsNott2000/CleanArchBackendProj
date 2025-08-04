@@ -7,3 +7,4 @@ public class BadRequestException(string error, Dictionary<string, string[]> erro
     public string Error { get; } = error;
     public Dictionary<string, string[]> Errors { get; } = errors;
 }
+

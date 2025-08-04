@@ -1,5 +1,4 @@
 using System;
-
 namespace BuildingBlocks.Application.Exceptions;
 
 public class NotFoundException (string error) : Exception
