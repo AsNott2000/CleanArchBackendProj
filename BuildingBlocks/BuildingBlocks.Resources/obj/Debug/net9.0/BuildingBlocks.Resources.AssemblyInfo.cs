@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuildingBlocks.Resources")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4658a35e377da48d94121d156b1eec54a2a58bd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuildingBlocks.Resources")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuildingBlocks.Resources")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
