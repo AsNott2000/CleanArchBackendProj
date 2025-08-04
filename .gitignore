@@ -1,0 +1,23 @@
+# .NET build files
+bin/
+obj/
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# MacOS
+.DS_Store
+
+# Temporary files
+*.cache
+*.log
+
+# Auto-generated assembly info
+*AssemblyInfo.cs
+*AssemblyInfoInputs.cache
+*.GeneratedMSBuildEditorConfig.editorconfig
