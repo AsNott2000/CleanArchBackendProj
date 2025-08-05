@@ -4,5 +4,5 @@ namespace BuildingBlocks.Application;
 
 public class GlobalExceptionHandler
 {
-
+    
 }
