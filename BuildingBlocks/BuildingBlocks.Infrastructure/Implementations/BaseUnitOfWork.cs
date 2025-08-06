@@ -2,7 +2,7 @@ using BuildingBlocks.Domain.Interfaces;
 
 namespace BuildingBlocks.Infrastructure.Implementations;
 
-public class UnitOfWork(DBContext dbContext) : IUnitOfWork
+public class BaseUnitOfWork(DBContext dbContext) : IBaseUnitOfWork
 {
     public async Task<bool> SaveChangesAsync(CancellationToken cancellationToken = default)
     {

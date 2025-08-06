@@ -2,7 +2,7 @@ using System;
 
 namespace BuildingBlocks.Domain.Interfaces;
 
-public interface IUnitOfWork
+public interface IBaseUnitOfWork
 {
     Task<bool> SaveChangesAsync(CancellationToken cancellationToken = default);
 

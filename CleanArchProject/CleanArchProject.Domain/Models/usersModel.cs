@@ -1,8 +1,9 @@
 using System;
+using BuildingBlocks.Domain.Models;
 
 namespace CleanArchProject.Domain.Models;
 
-public class UsersModel
+public class UsersModel : TrackableEntity
 {
 
 public Guid Id { get; set; }

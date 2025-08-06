@@ -4,7 +4,8 @@ using CleanArchProject.Domain.Models;
 
 namespace CleanArchProject.Domain.Interfaces;
 
-public class IUsersRepository : IRepository<UsersModel>
+public interface IUserModelRepository : IRepository<UsersModel>
 {
+    
     
 }
