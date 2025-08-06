@@ -14,7 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Attributes\" />
     <Folder Include="Behaviors\" />
     <Folder Include="Jobs\" />
   </ItemGroup>
