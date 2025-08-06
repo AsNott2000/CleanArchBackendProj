@@ -51,3 +51,10 @@ public class ValidationBehaviour<TRequest, TResponse>(IEnumerable<IValidator<TRe
         return camelCaseFailures;
     }
 }
+/*
+Tüm Command/Query doğrulamasını merkezi yapar.
+
+Handler’da ekstra validation kodu yazmana gerek kalmaz.
+
+Hataları standart şekilde ve okunabilir biçimde frontend’e gönderir.
+*/
