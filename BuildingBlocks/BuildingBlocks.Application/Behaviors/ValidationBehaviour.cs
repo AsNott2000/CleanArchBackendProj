@@ -7,7 +7,20 @@ using BuildingBlocks.Application.Exceptions;
 
 
 namespace BuildingBlocks.Application.Behaviors;
+/*
+Her MediatR isteğinde (Command/Query),
+ilgili validator varsa otomatik olarak devreye girer.
 
+İstek modelini kontrol eder,
+
+Eğer hata varsa:
+
+Hataları BadRequestException ile fırlatır (ve API hemen döner).
+
+Hata yoksa:
+
+İstek pipeline’da ilerler (işlem yapılır).
+*/
 public class ValidationBehaviour<TRequest, TResponse>(IEnumerable<IValidator<TRequest>> validators)
     : IPipelineBehavior<TRequest, TResponse> where TRequest : notnull
 {
